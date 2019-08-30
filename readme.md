@@ -20,3 +20,4 @@ If PHP for some reason does not work, check console window for details.
 ### Projects used in this project
   - aria2 (https://aria2.github.io/)
   - PHP (http://php.net/)
+  - 7-Zip (https://www.7-zip.org/)

@@ -19,6 +19,6 @@ echo.
 
 :phprun
 echo ----- PHP log -----
-"%php%" -c "%scriptDir%files\php\php.ini" -S 0.0.0.0:%serverPort% -t "%scriptDir%src"
+"%php%" -c "%scriptDir%files\php\php.ini" -S 0.0.0.0:%serverPort% -t "%scriptDir%src-jsonapi"
 
 goto :phprun
